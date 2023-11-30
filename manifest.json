@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "My First Extension",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "test"
+    },
+    "permissions": [ "*://poshmark.com/*", "*://poshmark.ca/*", "*://poshmark.com.au/*", "*://poshmark.co.uk/*", "*://www.mercari.com/*", "*://www.facebook.com/*", "*://www.upload.facebook.com/*", "*://upload.facebook.com/*", "*://*.depop.com/*", "*://www.grailed.com/*", "*://*.ebay.com/*", "*://*.ebay.co.uk/*", "*://*.ebay.ca/*", "*://*.ebay.com.au/*", "*://*.ebay.ie/*", "*://*.crosslist.com/*", "*://www.kidizen.com/*", "*://api.kidizen.com/*", "*://www.etsy.com/*", "*://www.bonanza.com/*", "*://*.vinted.com/*", "*://*.myshopify.com/*", "*://instagram.com/*", "*://*.instagram.com/*", "*://*.vestiairecollective.com/*", "*://*.ebay.co.uk/*", "*://*.vinted.nl/*", "*://*.vinted.co.uk/*", "*://*.ebay.ca/*", "*://*.vinted.ca/*", "https://*.s3.amazonaws.com/*", "cookies", "storage", "tabs", "webRequest", "webRequestBlocking", "geolocation" ],
+    "icons": {
+      "128": "icon.png"
+    }
+  }
