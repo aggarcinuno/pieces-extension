@@ -1,0 +1,2281 @@
+[
+    {
+      "id": "232c7492-07bc-005f-7e3d-76824c420ab4",
+      "title": "Menswear",
+      "isEndNode": false,
+      "categories": [
+        {
+            "id": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Accessories",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "2a698d16-42c5-1cdf-20f0-145be5ee94bb",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e187bd03-547e-75ac-641a-9e98f51b49b9",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Belts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "25fca0ae-4b40-2da0-2f36-c78fbd9d3a5c",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Bowties",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b8644e8e-1b2e-7e2a-784a-cd5977d2946f",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Cardholders",
+                    "isEndNode": true
+                },
+                {
+                    "id": "669766cc-310b-378f-15a5-4e7fdecf3861",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Glasses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9fda6d08-6f2e-7897-5fe8-97c6e29602c6",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Gloves",
+                    "isEndNode": true
+                },
+                {
+                    "id": "049dd603-5d40-5d8b-6216-98c2f2880d31",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Hats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8063e701-a2a8-64b3-4979-90404a9b940c",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Jewelry",
+                    "isEndNode": true
+                },
+                {
+                    "id": "be54118b-27e3-7624-7976-63a7f1065f7a",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Scarves",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6c9752ce-20b4-1b9f-4742-aff1c01d9992",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Sunglasses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8bd55587-9aee-7bf6-0bff-c4ad3a792984",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Ties",
+                    "isEndNode": true
+                },
+                {
+                    "id": "46b876d6-a221-72cb-060e-b26bd3031bed",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Wallets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "92391101-8b70-1f4d-03d8-73a066259dce",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "Watches",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c90ac606-14c1-03cf-0b2f-fe22084194fd",
+                    "parentId": "c045d83c-20e7-8999-a5e3-6ee06bb0a054",
+                    "title": "All accessories",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Activewear",
+            "isEndNode": false,
+            "categories": [
+    {
+        "id": "1188aafb-450c-6f08-68e8-6dbd6e662784",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Jackets",
+        "isEndNode": true
+    },
+    {
+        "id": "4af42b38-401d-15ff-a224-104949b25d5c",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Jerseys",
+        "isEndNode": true
+    },
+    {
+        "id": "9eb3f23d-a432-3e92-1c81-dc2433553332",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Joggers",
+        "isEndNode": true
+    },
+    {
+        "id": "9be9542a-1aa9-94e9-3a24-31232bd6733b",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Shorts",
+        "isEndNode": true
+    },
+    {
+        "id": "9bf6478f-839a-819e-490a-18b829b37be5",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Sport shoes",
+        "isEndNode": true
+    },
+    {
+        "id": "aa8318fb-2dff-7a47-a4ea-1624d9d319e3",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Sweatpants",
+        "isEndNode": true
+    },
+    {
+        "id": "4dd77941-8b84-9c55-85ca-62c437645669",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "Tracksuits",
+        "isEndNode": true
+    },
+    {
+        "id": "f1bd5f35-a6ee-8356-7d7b-5880c0df488b",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "T-shirts, short sleeve",
+        "isEndNode": true
+    },
+    {
+        "id": "fe49449c-1c00-2946-1268-1e394657618b",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "T-shirts, long sleeve",
+        "isEndNode": true
+    },
+    {
+        "id": "914e037f-781d-4361-18aa-bbad69af1827",
+        "parentId": "b95b7f65-2370-9160-9cf5-3fa7deb80e64",
+        "title": "All activewear",
+        "isEndNode": true
+    }
+            ]
+        },
+        {
+            "id": "7add9588-02d1-3b75-6210-eff97c604c61",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Footwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "163d4a39-7c0c-5d41-7125-6656b3157a8a",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Ankle boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e45809bf-7abf-3c7e-93d2-b4c2a7778f2a",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Combat boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9e9947db-2071-6900-5abe-572203f86d19",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Heeled boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "65ebd52a-07ab-1943-8bc5-b055eeff7690",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Knee-high boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "85a3f16d-0ffa-0c9d-2c3e-a053a8f938cd",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Lace-up boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d3ae25f1-8570-1a48-9591-9852940f0e87",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Winter boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6e3bed71-664b-91e2-3e8f-be571a7e6ec0",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Espadrilles",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f1379e03-92a4-642b-9398-ef1570890817",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Loafers & slip-ons",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ecebb81e-807b-a0cd-2bc5-b9d855b73c55",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Moccasins",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d727555e-0a82-13d1-732c-ef6f67858737",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Mules & clogs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "451feca3-3c01-7405-3316-f5b92eda3220",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Oxfords",
+                    "isEndNode": true
+                },
+                {
+                    "id": "001a4f3a-047b-0f09-6443-a3fd163d55b3",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Sandals",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4a3fc3ad-761b-942d-1a0a-191a83303147",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Slippers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "04851079-21ee-4493-9b42-3c3959524d69",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Sneakers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6fcfb27b-8e02-2178-2b79-714cf7988f42",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "Work & safety",
+                    "isEndNode": true
+                },
+                {
+                    "id": "eaaaa6de-1dde-1332-33f0-a302c60e3d8f",
+                    "parentId": "7add9588-02d1-3b75-6210-eff97c604c61",
+                    "title": "All footwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Intimates & sleepwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "b907a008-4c60-2e2d-1e6a-346bd5096cad",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "Boxers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f3c0340b-74f7-324b-5538-bb6dd02f8f02",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "Briefs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "626169ba-6691-48f8-9d12-65ee9a4b8f38",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "Pajamas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4f2f89ad-7dea-8ed3-6cad-887f45850efb",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "Socks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "79deedab-12d2-40b0-5a96-49ab5d752e17",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "Undershirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d6e397d7-77dc-77b3-3b45-3ebd08d83612",
+                    "parentId": "64cc5dbb-4063-31f3-9e29-8b9967348352",
+                    "title": "All intimates & sleepwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Jeans",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "41f2b786-07ea-2b6c-28a1-cfe8bb4c0160",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Boot cut",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5a7af63f-6445-25ab-065e-0511670d2c89",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Capri",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3eec4dc4-0a7e-2efa-2f4c-9c4b516c0674",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Cargo",
+                    "isEndNode": true
+                },
+                {
+                    "id": "86a8eed6-1643-671b-55cf-877f836922fc",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5ffb3fce-091d-7826-274f-90c6c08604ad",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Cropped",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6102e7b1-79d6-a136-90e8-5344cf7088df",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Flare",
+                    "isEndNode": true
+                },
+                {
+                    "id": "fd9ee5b9-1575-3ebd-a2ed-fd6694898e82",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Overalls",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6085da23-8289-787f-21de-c0b361bd3fa2",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Relaxed",
+                    "isEndNode": true
+                },
+                {
+                    "id": "84efa31a-6859-12ae-11de-320651cc6526",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Skinny",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7e690ef0-2e62-1157-05ea-87fc54a31f4f",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Slim",
+                    "isEndNode": true
+                },
+                {
+                    "id": "258afb7d-5700-7a73-8605-a705ae2e64b3",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Straight",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b9b8d2d7-40c5-1e38-3e7a-2aacb68b7b0e",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "Wide leg",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0dfc569e-6eac-70e8-588b-a1ff54a54461",
+                    "parentId": "4659be6e-4e95-7e70-a1ad-227aa6d2a0a0",
+                    "title": "All jeans",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Outerwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "ac7592c4-78c2-2b2c-5bd2-7598e1bb6f6b",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Bomber jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "53fb0dda-a5c1-2491-53ca-3d2c587e176c",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Capes",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0b6009b3-0082-7581-7b4b-096e0b105294",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Denim jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5a5b59ca-6483-1d11-2e78-8403873842dc",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Fleece jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e3e19c37-51d3-a721-2bfb-a70859367740",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Leather jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b9b85364-3020-8082-4a37-0ece5e30350d",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Parkas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6738db75-3c1b-1d64-0e93-634332983719",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Pea coats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "cba9ab93-8a1d-8579-34d7-8153cf8f244f",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Ponchos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "859fb4e5-a64f-25e5-a069-17eca955a3e8",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Puffers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3f0d992c-6195-2f5f-2ed8-47d552737f57",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Raincoats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "77f6d894-8081-9c9d-a08a-d95cdcef3b96",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Trench coats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "06671d4d-36bd-7f9b-1fb9-024061bf0a8c",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Varsity jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "14734cfb-2ab4-5270-02d8-1c8ba5cc5d96",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Vests",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1792cab4-8953-93c0-9d17-8c564e956ed4",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Utility jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9123dbca-1d72-2ad1-823b-7786ffd12661",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "Windbreakers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0d4a56c9-4483-3056-66d3-290ef4211036",
+                    "parentId": "46e60026-7fa8-0883-8a7c-5daebe4c1a67",
+                    "title": "All outerwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "fe53566e-8051-15de-9536-dafa677b3ad2",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Pants",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "70a8ffbe-960e-8d92-3dfd-e5e1584d375f",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Capri",
+                    "isEndNode": true
+                },
+                {
+                    "id": "07974b9c-2298-47f2-1b54-81e7e5177e35",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Cargo",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b88089b8-1bef-00e5-a4db-845ca9a88066",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "92fa13d6-7272-7654-1eba-3514e7241834",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Casual",
+                    "isEndNode": true
+                },
+                {
+                    "id": "efc4a788-14aa-5d07-5267-fbe3671807aa",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Corduroys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c33b220c-4319-9cf0-977b-76a64e0546e6",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Cropped",
+                    "isEndNode": true
+                },
+                {
+                    "id": "dbf548f8-22e8-1a90-4f8e-71fdbd536d67",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Dress pants",
+                    "isEndNode": true
+                },
+                {
+                    "id": "eab097e3-605c-2522-7f08-984c2be14e50",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Khakis & chinos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8adf08ea-3973-0110-a720-e26002158821",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Leather",
+                    "isEndNode": true
+                },
+                {
+                    "id": "bebc116c-9906-0422-7857-5b621d6626ce",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "Linen",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d8217481-22b8-8686-6f59-940f91fa2493",
+                    "parentId": "fe53566e-8051-15de-9536-dafa677b3ad2",
+                    "title": "All pants",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Shorts",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "1cecc3f8-8159-04d2-11fc-cb7cc27009d8",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Bermudas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d6ac9191-97e4-32f3-1e84-79c30abc7aeb",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Board",
+                    "isEndNode": true
+                },
+                {
+                    "id": "65517d20-7bdd-1b12-1d39-51ef8e8c7d23",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Cargo",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6f45712c-7094-18e5-881d-1e1908424e87",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "546824e9-2781-8927-8c75-dd01c8998b31",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Casual",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5cbd5129-164f-6508-3e47-2b94c8018015",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Corduroys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "32495414-4afe-6f9e-93d6-dfe53568702e",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Denim",
+                    "isEndNode": true
+                },
+                {
+                    "id": "709254e2-7b19-6bcf-5c7b-f944599e7413",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Dress shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c5aa7ca1-8b73-29fa-293a-8d04c52749cc",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "Khakis & chinos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "894b6055-0b48-6cf5-38a9-5858cb465d4e",
+                    "parentId": "a2adbcc1-089d-1fdf-7810-c4c78dc3a444",
+                    "title": "All shorts",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "56da195f-3280-2074-219e-4e0d054f68c7",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Suits & blazers",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "d9e9f0fb-43a6-2bb6-0aba-2e93b4af7d45",
+                    "parentId": "56da195f-3280-2074-219e-4e0d054f68c7",
+                    "title": "Blazers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "77088275-960c-0e65-4de8-98bfde4223e0",
+                    "parentId": "56da195f-3280-2074-219e-4e0d054f68c7",
+                    "title": "Two-piece suits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "bd233c2c-6b62-8da3-8357-4072454f4ec5",
+                    "parentId": "56da195f-3280-2074-219e-4e0d054f68c7",
+                    "title": "Three-piece suits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7cf63b01-0ed3-8f2e-3b7c-00b551a44a5e",
+                    "parentId": "56da195f-3280-2074-219e-4e0d054f68c7",
+                    "title": "Tuxedos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3682f493-2814-99da-7112-76096e0e6579",
+                    "parentId": "56da195f-3280-2074-219e-4e0d054f68c7",
+                    "title": "All suits & blazers",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Sweaters",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "c3823a27-1a83-0720-79c4-ba810a8b4f3d",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Cardigans",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c4de9cf0-81ec-712d-1caa-d4d14f6494a8",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Cowl necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9ee1a527-56c6-6a89-9abe-4e3b90114651",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Crew necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5ac0783f-2b0e-40f4-5c60-773e8bc4166c",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Full zips",
+                    "isEndNode": true
+                },
+                {
+                    "id": "bc7f3700-7523-5533-4524-5ab65f6d2750",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Henleys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "bc911823-9e60-781b-5d4d-6b53a05c6fd6",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "Turtlenecks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e12730bd-4934-2d3a-1813-1f1bf0ba07a8",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "V-necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d0564fe0-2262-874e-9342-f81e550156a0",
+                    "parentId": "9a945b8c-8d02-7655-3581-5381e4319fc7",
+                    "title": "All sweaters",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "260ea6bc-3716-77bd-0fa6-727066fd19e6",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Sweatshirts & hoodies",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "71b638a8-235e-892a-7fbc-0831f1a907e1",
+                    "parentId": "260ea6bc-3716-77bd-0fa6-727066fd19e6",
+                    "title": "Hoodies",
+                    "isEndNode": true
+                },
+                {
+                    "id": "46397ead-6baa-4de7-3aa5-d3d9052f51a9",
+                    "parentId": "260ea6bc-3716-77bd-0fa6-727066fd19e6",
+                    "title": "Sweatshirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "eb8e15d5-14a9-5282-6c81-1b2cdf378980",
+                    "parentId": "260ea6bc-3716-77bd-0fa6-727066fd19e6",
+                    "title": "All sweatshirts & hoodies",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "93ccc5e2-6324-3bfb-0f84-1faffd599de8",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Swimwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "0687a549-3203-17f3-71cc-9f5d1c946273",
+                    "parentId": "93ccc5e2-6324-3bfb-0f84-1faffd599de8",
+                    "title": "Board shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a8d1674e-28f1-5c2e-5f0a-b03b85d76815",
+                    "parentId": "93ccc5e2-6324-3bfb-0f84-1faffd599de8",
+                    "title": "Briefs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e48c113d-458b-899d-1086-28466fa98c77",
+                    "parentId": "93ccc5e2-6324-3bfb-0f84-1faffd599de8",
+                    "title": "Trunks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8ea2cda7-1133-2204-8a00-9e450acc0461",
+                    "parentId": "93ccc5e2-6324-3bfb-0f84-1faffd599de8",
+                    "title": "All swimwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "49581a44-752a-550f-a183-ea5af0f747da",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "Tops & shirts",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "846c998f-a67e-50c8-64b3-e0c4010f8afb",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Button up shirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8a6dbd8e-a372-263f-66db-3d785d2420d3",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Dress shirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b7a1f3d9-3e55-4f51-86a1-1a71bf957b1b",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Hawaiians",
+                    "isEndNode": true
+                },
+                {
+                    "id": "61fccf16-916b-9cf2-1b1f-74f644ca7f24",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Henleys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "53a08abc-4447-97e2-211b-4e5b23c79b26",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Polos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b8e9d7b0-4779-44de-89db-79f3c01f2c81",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Rugby shirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "2709cf89-3aca-75e2-400d-6781e5b497b6",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Tank tops",
+                    "isEndNode": true
+                },
+                {
+                    "id": "94536cf0-6bc9-01f9-8316-061b3311599d",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "Turtlenecks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4b024732-289e-58a7-7694-c28964660969",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "T-shirts, short sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "bed3cf42-1887-747b-27c6-6450654d356f",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "T-shirts, long sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7497cd9c-8cf9-54e6-60eb-29a389ac74db",
+                    "parentId": "49581a44-752a-550f-a183-ea5af0f747da",
+                    "title": "All tops & shirts",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "4ccc808b-97f9-6650-1aa1-ddf98b1503e0",
+            "parentId": "232c7492-07bc-005f-7e3d-76824c420ab4",
+            "title": "All menswear",
+            "isEndNode": true
+        }
+    ]
+    },
+    {
+      "id": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+      "title": "Womenswear",
+      "isEndNode": false,
+      "categories": [
+        {
+            "id": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Accessories",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "55c9de67-87d5-37ba-8550-2435fc3e5bac",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Belts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ed3e5c0c-5b75-9d55-a2fa-af3c1e585bf3",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Cardholders",
+                    "isEndNode": true
+                },
+                {
+                    "id": "21b044e7-3250-45fc-3e27-938beef35c37",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Glasses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "85d0c665-5407-9025-8115-00b33ac74717",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Gloves",
+                    "isEndNode": true
+                },
+                {
+                    "id": "cd7ad975-4a2c-3883-4b0d-e456199722f9",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Hats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a03ffd0f-422a-6756-3669-dc1679e057c6",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Hair accessories",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9cba3aa0-2709-4f50-1627-1737fa50926b",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Scarves",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7f1d8662-5b9b-a4ce-3fc4-21d2eec275b7",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Sunglasses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8fd07157-4b58-2216-4c60-7490f1205c41",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Wallets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "cdcb5389-a272-a30c-1f19-0a3f767141e7",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "Watches",
+                    "isEndNode": true
+                },
+                {
+                    "id": "aef1c016-4508-32e3-5491-8f75087a065a",
+                    "parentId": "6616bfdc-2d8d-a262-1c7b-e15be62a0419",
+                    "title": "All accessories",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Activewear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "591def8a-9332-8e25-0693-929c68a24a19",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Bras",
+                    "isEndNode": true
+                },
+                {
+                    "id": "266eae6a-6f6b-9e8f-6486-14bc0cdf3ed7",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f4a67f28-053d-8610-20a4-9573961c33e4",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Jerseys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9b8b0bd8-2977-9b47-6223-8cca39a38a1a",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Joggers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "99f046df-9f8d-7dcc-7161-36f5900e816e",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Leggings",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b532d8a8-8db4-0b5a-4219-758e997d253e",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7da22665-07a3-1518-5f89-ccb953679883",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Skirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a6c92a20-84ff-84c2-315d-7b30517c7bcf",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Sport shoes",
+                    "isEndNode": true
+                },
+                {
+                    "id": "729c0daf-04f6-8c9c-0bd6-9706f8013207",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Sweatpants",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6ea8dd7a-6334-7d5e-9d14-f771b2c12636",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "Tracksuits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "fa6df726-7477-2ee4-a415-9d0ea0db1d87",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "T-shirts, short sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8b4cca84-a37b-5a43-8702-0126bf951eda",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "T-shirts, long sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7d4b4088-1c17-3e95-4b08-5026e23c840b",
+                    "parentId": "42d25a8e-2a32-54c7-503c-51082fb682ec",
+                    "title": "All activewear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Bags",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "6ee9eea7-1342-9b8b-2a31-1cd7a1cb2315",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Baby bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8e2189a4-254a-60c8-59e1-6978f4b086c4",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Backpacks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "16f85991-8be3-8977-15b8-c6ff08817515",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Bucket bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3cca5429-0044-76ba-31f2-4d2d35be1d38",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Cosmetic bags & cases",
+                    "isEndNode": true
+                },
+                {
+                    "id": "053dcb98-2b8e-460b-659e-850d84db7f15",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Clutches & wristlets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5b815a93-2287-6bd6-8b61-795f248c80f0",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Crossbody bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "009c6d26-9e90-0d61-5e63-d276bde21917",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Hobos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "719e1237-a727-3fe7-87f0-e8cabf6271c3",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Messenger bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f8a8982c-473f-3550-9f3c-69719e1a19c3",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Mini bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "69f40a37-7b3f-1bf7-93f2-5248f93f6d9a",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Satchels",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0b6d8e4d-88a9-6d18-9209-4eba79bf1c49",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Shoulder bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6e9eb101-8e30-040a-7f24-0f80681313f5",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Totes",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5dea6d7b-59b7-5bcc-791c-9776f7eb59aa",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Travel bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "620fcb7f-87f9-0e95-a443-c78d9ebe7047",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "Waist bags",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ab269645-0117-1945-908f-a0d61402a1d3",
+                    "parentId": "1a8c1431-053b-80fa-03ee-5e7676128fa8",
+                    "title": "All bags",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "8a2377e6-544f-15df-7447-0ab980c9764a",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Dresses",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "252f216a-25d8-3bcd-25d2-40ab645c7797",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Asymmetrical",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1823ca89-2a3d-4632-8117-6c392397130d",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Backless",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f19915a5-642c-6892-6013-63c32864a1d8",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "High low",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1785f9f8-8f46-52a3-3108-f961487772b9",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Knee-length",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e3c1fa39-61f5-6b10-8e3d-367f0603732d",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Long sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d858e5ee-3b08-47f8-284a-9e9b228e6857",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Mini",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c0e2b640-0d02-4c8f-a1a4-f06b2b606e48",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Midi",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0c73be87-527e-8619-1b50-b7f79f01378c",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Maxi",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a8e4d527-7e2f-89e9-1ece-e6d26fdd2a20",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "One shoulder",
+                    "isEndNode": true
+                },
+                {
+                    "id": "80d127b4-62bc-2f2c-44dd-2b35f6ff1e6a",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Prom",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0048f2a6-49da-2419-5194-e5057a8e03fa",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "Strapless",
+                    "isEndNode": true
+                },
+                {
+                    "id": "28e029d0-1c95-a1d7-7aac-6c5fb1bc272c",
+                    "parentId": "8a2377e6-544f-15df-7447-0ab980c9764a",
+                    "title": "All dresses",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Footwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "540204c7-57f0-797f-6030-bf4fafd8533c",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Ankle boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b885d595-0dec-77a1-1848-a3fc2e7166d8",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Combat boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0b2dbb2f-65ab-4633-2e13-947cbcdd9ad8",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Heeled boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a4546aba-4e50-3583-3112-7414aee97eec",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Knee-high boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "87d22cdb-17d5-5a74-10b7-2c52d38a7e28",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Lace-up boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b0ccb080-707f-3c33-0b2e-241354493a0c",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Winter boots",
+                    "isEndNode": true
+                },
+                {
+                    "id": "00fd0a04-707a-2345-22d1-b98e87528c72",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Espadrilles",
+                    "isEndNode": true
+                },
+                {
+                    "id": "410958cc-87ac-4434-2141-67d73b815b98",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Flats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c71824a7-0b7b-6f11-4dbf-a2d6442f9b9f",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Heels",
+                    "isEndNode": true
+                },
+                {
+                    "id": "fba4d414-5b27-087b-7ffb-1a30a91d95d6",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Loafers & slip-ons",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f2f31f21-873e-0424-460b-f077fb9a1819",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Moccasins",
+                    "isEndNode": true
+                },
+                {
+                    "id": "001f48e4-2260-9bda-7dec-4d15fd360ac5",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Mules & clogs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b166f880-0b1c-3099-48c0-37b488ef1c48",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Oxfords",
+                    "isEndNode": true
+                },
+                {
+                    "id": "91d9da39-61c9-6cf7-44b0-3d8422ab67a7",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Platforms",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f3b9b5e4-4b4e-4304-7e91-c008b7d00246",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Pumps",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8ca295e3-4da1-60b0-9788-b5ab12598d45",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Sandals",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5cd11c05-4c3a-34f2-0df8-ea9a14b86604",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Sneakers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a099df7b-54bd-6d2b-7216-c853f5ef736b",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Slippers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "53c4064f-a6ff-765c-97c4-6536768d35c5",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Wedges",
+                    "isEndNode": true
+                },
+                {
+                    "id": "06fa15b9-8c04-70dc-86cb-cbc03c0b80b3",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "Work & safety",
+                    "isEndNode": true
+                },
+                {
+                    "id": "17525b99-3714-990d-69e7-16cf92a00fed",
+                    "parentId": "7ce8bf90-16f7-116e-897e-636bee6b921e",
+                    "title": "All footwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Intimates & sleepwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "2c80ed22-1eb3-1a89-4cb0-16eb577636b2",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Bandeaus",
+                    "isEndNode": true
+                },
+                {
+                    "id": "50c859ef-6643-4faf-1f4f-903ee3c155cc",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Bras",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d8eea4c3-8b99-9272-0a74-970762106585",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Chemises",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a2c1a287-9ed4-3e92-5806-1a26f2af2302",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "G-strings & thongs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5fed101e-4d4a-3fea-6491-fb7a3cd51087",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Pajamas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "53a69f49-4337-3e6c-a2a3-526473d40deb",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Panties",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f569bf78-74a3-7e22-16e2-880bcb5f22aa",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Robes",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e574863e-9c77-0d22-3b7d-a7969ffa35aa",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "Socks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "160b6822-2a37-36b5-95f9-21900af04859",
+                    "parentId": "81f7a4b2-701c-0251-104e-f6c891a12e22",
+                    "title": "All intimates & sleepwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "703c579b-3660-1bf2-91df-77a4cb558160",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Jeans",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "91c006ba-7db1-4bf7-7856-f11fad4526e2",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Boot cut",
+                    "isEndNode": true
+                },
+                {
+                    "id": "544c5527-2ebb-8989-000c-05d57026a425",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Boyfriend",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8777c2fa-0018-2987-2c70-5fc5d482539b",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Capri",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7377bd73-7db4-5405-3459-1198911b50b8",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Cargo",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7fe5a5d5-6157-7f22-31fb-54caae847af6",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "95a9694b-95c1-7804-039e-8360bc5112ef",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Cropped",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9ae57575-0227-915e-3e22-de481ee7a14a",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Flare",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e45f73b3-1c52-8201-4318-f8c9e9a68713",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Overalls",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a7019eb8-a149-6184-a24c-a1d733dd8d09",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Relaxed",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3ebe26da-419a-7a56-6efb-e438861403d5",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Skinny",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f180ffa3-4cf1-a698-0d83-b21c69aba409",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Slim",
+                    "isEndNode": true
+                },
+                {
+                    "id": "15fcb983-043b-67e5-131e-fe8c3f7e8b9d",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Straight",
+                    "isEndNode": true
+                },
+                {
+                    "id": "643edd92-6017-898b-3c01-caf575304787",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "Wide leg",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3f8a2a88-6e71-4b33-8cc2-da17067d9a9b",
+                    "parentId": "703c579b-3660-1bf2-91df-77a4cb558160",
+                    "title": "All jeans",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Jewelry",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "71b020da-52c7-23cf-9602-c5bc71484c88",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "Bracelets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7a5be54c-00e8-6380-0d5e-43dc7ee233b6",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "Brooches",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b638ce8b-8427-40bf-81f9-f064b4f248ca",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "Earrings",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4d2e6940-61bf-4fe4-856c-c7429dc45e3a",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "Necklaces",
+                    "isEndNode": true
+                },
+                {
+                    "id": "de132a58-5c53-07a3-9821-aa7777f8a547",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "Rings",
+                    "isEndNode": true
+                },
+                {
+                    "id": "07588843-9de7-5fa7-1bfb-fcf347311f26",
+                    "parentId": "408c3931-0600-8cef-7ac8-48b181a39f3b",
+                    "title": "All jewelry",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Maternity",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "fe918e5e-1a76-a261-772b-b597b0652120",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Activewear",
+                    "isEndNode": true
+                },
+                {
+                    "id": "76ee6188-6e0e-6644-2a65-5f148895324a",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Dresses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "151d70e3-153d-1116-1a73-b652cd846d41",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Jeans",
+                    "isEndNode": true
+                },
+                {
+                    "id": "17f28de6-4c71-1da7-6d69-7d04a0b26e0a",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Pants",
+                    "isEndNode": true
+                },
+                {
+                    "id": "965f9b6d-4e57-0b1d-7e8e-bfe2cca7a558",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Sweaters",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b5d0d0e3-8883-2cc1-0c0b-7cac095e842a",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1521b842-33de-5fb8-7c7a-9f84b0d525b9",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Skirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "995c9d36-6311-7e48-449b-7e72d9dc947f",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Suits & blazers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3a930b54-577e-1b69-7a72-9dbaf8ea2ad4",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "Tops & blouses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "429b3c74-6a12-7555-74cb-715a1d439232",
+                    "parentId": "875339f4-4478-72f7-0ae3-f4b604670a8b",
+                    "title": "All maternity",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "4925da4f-2151-8267-4608-5d960f7c7e45",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Outerwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "fa465d97-3736-7639-098c-d47ac76d67d1",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Bomber jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "666f4c2f-39c1-352c-06fc-b2b0fb0a25e0",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Capes",
+                    "isEndNode": true
+                },
+                {
+                    "id": "045359fc-9129-3a78-6caa-3aaea97d1641",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Denim jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "53f58a32-4297-5d2a-13e1-f280dccc7b29",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Fleece jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b01c7594-31d7-7923-2484-faa3667581a6",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Leather jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "24573303-1ed0-1762-39f2-11d7bee80886",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Parkas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "86f95898-5dee-6510-60c8-eb3404c94604",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Pea coats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f846b984-1dee-9b1c-368f-07897898a109",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Ponchos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4e27960a-4bfa-10d5-3e2f-18e48ca866be",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Puffers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "428b927a-0b27-3b69-5b71-b175f3e617de",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Raincoats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "3edd23ce-0793-6cd1-1888-d2641dd95ec9",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Trench coats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d2112895-5a3f-27a6-9eb5-b7ef3715248d",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Varsity jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6e2955d2-8618-55a2-89fe-735d72b00942",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Vests",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a141e355-0751-83d0-a362-5fe2fe8e576a",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Utility jackets",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5ccde2ec-7496-6f7b-39b1-ca9b575991a3",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "Windbreakers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0d0f34be-5611-642b-8f6e-a0acc9c28371",
+                    "parentId": "4925da4f-2151-8267-4608-5d960f7c7e45",
+                    "title": "All outerwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Pants",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "ff9111cf-6de8-9c65-8bca-29b1f9553210",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Capri",
+                    "isEndNode": true
+                },
+                {
+                    "id": "90b1ae95-8eee-27fd-6f09-1a3a04913df6",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Cargo",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e814005c-7780-a57c-21cd-b9573d674580",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "450fcb3a-7137-04dd-25a2-4e9e749b1bf4",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Casual",
+                    "isEndNode": true
+                },
+                {
+                    "id": "791a8e61-9000-7b13-4a1d-62b56d917642",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Corduroys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e9eb095a-7404-5d04-00ac-edbeae81050e",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Cropped",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6f804284-644f-3036-50a8-aba3aa265741",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Dress pants",
+                    "isEndNode": true
+                },
+                {
+                    "id": "de3fc37b-379c-8257-1f78-28f4fce35cb9",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Jumpsuits & rompers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "33e22c41-299e-86fe-9836-834b1cc51903",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Khakis & chinos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8e1e4cf7-43fa-1ca7-791d-c5e3bd5d6736",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Leather",
+                    "isEndNode": true
+                },
+                {
+                    "id": "fbbbd0c4-589b-59d6-893a-0e5c9f785fd6",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Leggings",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4f06d387-55ed-1bb2-84f3-ff1f8e221320",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "Linen",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f5f386b0-236a-2e42-476b-91dc93052637",
+                    "parentId": "be2e87ad-0f4a-a5b9-6af5-5e13d04a745d",
+                    "title": "All pants",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "16b059a0-8014-738d-0728-2cf48b897aee",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Shorts",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "f2c0f2d8-5373-25a0-3042-55b362ac6591",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Bermudas",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4a8866c0-2aea-59eb-1fe9-8c0029d7653d",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Cargos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7bf7f0b7-7507-37b3-8495-573f04665c3e",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Carpenter",
+                    "isEndNode": true
+                },
+                {
+                    "id": "922e76e8-3e36-7e9e-9e82-7a8a56b729db",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Casual shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "70adee04-7315-8085-645a-1354750e8200",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Corduroys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0775c812-18b6-3a19-7571-28e35f6e0919",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Denim",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6b513494-1405-78b8-8b4f-cd0d99b79865",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Dress shorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ea362ad2-483d-1cf2-a07c-cea7713d3423",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "High waist",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c9e05c2d-1bbc-100a-7a4c-bd17219e7853",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Khakis & chinos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "335e4018-8c0d-199d-8fb2-4523912b716e",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "Skorts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "20950b61-0fe0-4395-010c-3ee58a537060",
+                    "parentId": "16b059a0-8014-738d-0728-2cf48b897aee",
+                    "title": "All shorts",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Skirts",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "479896e6-2495-0195-4fa7-23b9dc5d7a56",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "A-line",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1cf039c0-64bd-1ee4-39a4-2a9b1a4059b7",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Asymmetrical",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8a866e8c-0266-93b9-3057-952aaea27281",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Bubble",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0b06ef34-3ba1-66e6-4bff-f4e577f2a102",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Full",
+                    "isEndNode": true
+                },
+                {
+                    "id": "49adbdfd-1d06-5488-16bb-0502937607a3",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Mini",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7304804c-209c-7c6e-19f3-1179d5a34b2d",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Midi",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1000c8f7-40c3-1683-07ba-625fb47955e7",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Maxi",
+                    "isEndNode": true
+                },
+                {
+                    "id": "33200996-565e-2847-0d0c-783d3a4785e0",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Peasant",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d707a243-3410-9ce0-0134-f2202bf52275",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Pencil",
+                    "isEndNode": true
+                },
+                {
+                    "id": "1e165d83-48b3-a53d-4971-bc600a053b15",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Pleated",
+                    "isEndNode": true
+                },
+                {
+                    "id": "38e3dd39-4bde-6e9c-8974-a6b333470070",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Tiered",
+                    "isEndNode": true
+                },
+                {
+                    "id": "529f9a81-4225-40fc-62f9-8622e53748a2",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "Wrap",
+                    "isEndNode": true
+                },
+                {
+                    "id": "feb063f0-6f91-36ca-73bb-afe8b141a483",
+                    "parentId": "49857f8f-1398-1d6b-1582-cd3924a88a0f",
+                    "title": "All skirts",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Suits & blazers",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "460dd137-7448-901a-231b-325805be65d7",
+                    "parentId": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+                    "title": "Blazers",
+                    "isEndNode": true
+                },
+                {
+                    "id": "38b104ec-6bdc-6775-9d47-1b8c6fbb7c82",
+                    "parentId": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+                    "title": "Dress suits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "2f8c922c-8ac7-563a-41bd-bba325254fe2",
+                    "parentId": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+                    "title": "Pant suits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e0a5e6d0-47be-a4a7-7c37-9bbf1068a440",
+                    "parentId": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+                    "title": "Skirt suits",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e2ebae35-3dae-1b9e-05e4-e829579e8b64",
+                    "parentId": "5e49d135-3073-12ca-1f7e-d7f4d13b8d20",
+                    "title": "All suits & blazers",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Sweaters",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "bd8faf62-88ba-8f4c-28e7-6d76f491596f",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Cardigans",
+                    "isEndNode": true
+                },
+                {
+                    "id": "d6922efe-4064-3600-4436-143ce535121e",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Collared",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6637f6f8-9dc8-086c-2616-aa768aec6661",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Cowl necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "b37101d8-8d9e-0f1f-0948-ac72e18fa171",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Crew necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c48351b0-451b-1680-1ffb-530977dba53e",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Full zips",
+                    "isEndNode": true
+                },
+                {
+                    "id": "7792ebbd-0675-3540-4ecd-8519180a0efe",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Henleys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "451be033-802b-2dc9-0e1d-208c0b476167",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Ponchos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "9f7d4c70-4692-9b38-0780-31159a84a679",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Scoop necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "89ffc6f7-1187-5227-564b-6d78f0e22f55",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Shrugs",
+                    "isEndNode": true
+                },
+                {
+                    "id": "8ccf12e4-4a3b-98b5-2f18-e28dfaed9ebe",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Sleeveless",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e8f9e0ce-90c0-7d65-0907-6c1680084c15",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Sweatercoats",
+                    "isEndNode": true
+                },
+                {
+                    "id": "50cf41d8-6b0c-8745-9805-be6a1ea3a262",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Turtlenecks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "5d5eb266-397f-6b3c-1b96-61dcce24831a",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "V-necks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "859e7dfa-99d5-85eb-404a-e825028e3477",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "Wraps",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ca90bf05-13b5-a6e3-9afa-bdeea073a606",
+                    "parentId": "697f7ec5-9fa3-8eb0-069d-c096df628686",
+                    "title": "All sweaters",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "f8ac76fc-9fdd-02c5-2226-9ac7e53247a3",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Sweatshirts & hoodies",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "b1d3ddb2-054d-46ee-52e1-4f079b388670",
+                    "parentId": "f8ac76fc-9fdd-02c5-2226-9ac7e53247a3",
+                    "title": "Hoodies",
+                    "isEndNode": true
+                },
+                {
+                    "id": "35ff3f4d-42a2-0297-88f7-6d558f666831",
+                    "parentId": "f8ac76fc-9fdd-02c5-2226-9ac7e53247a3",
+                    "title": "Sweatshirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "f2065ce9-26e1-6f1c-2e67-8fe067dc2949",
+                    "parentId": "f8ac76fc-9fdd-02c5-2226-9ac7e53247a3",
+                    "title": "All sweatshirts & hoodies",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "705a52df-20bf-6448-70ce-912eb0d03842",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Swimwear",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "50a5eb04-1e26-177f-2659-5fba5b955096",
+                    "parentId": "705a52df-20bf-6448-70ce-912eb0d03842",
+                    "title": "Cover-ups",
+                    "isEndNode": true
+                },
+                {
+                    "id": "38c2aece-a48a-8da5-4523-5e90d0896af2",
+                    "parentId": "705a52df-20bf-6448-70ce-912eb0d03842",
+                    "title": "One-pieces",
+                    "isEndNode": true
+                },
+                {
+                    "id": "e2f90f2f-07dd-9df7-a310-6ea4eb8e9a05",
+                    "parentId": "705a52df-20bf-6448-70ce-912eb0d03842",
+                    "title": "Two-pieces",
+                    "isEndNode": true
+                },
+                {
+                    "id": "02d921cd-18c0-310a-109b-f08f86241e89",
+                    "parentId": "705a52df-20bf-6448-70ce-912eb0d03842",
+                    "title": "All swimwear",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "1269f462-6375-6515-330c-dfe821090e6f",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "Tops & blouses",
+            "isEndNode": false,
+            "categories": [
+                {
+                    "id": "57fce0a5-6f89-0740-30df-edb51f0471a6",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Blouses",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ccf577d4-1398-7c82-2ea9-569848ab636e",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Button up shirts",
+                    "isEndNode": true
+                },
+                {
+                    "id": "65cedfa3-79fe-9330-0d39-64586a59812b",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Camisoles",
+                    "isEndNode": true
+                },
+                {
+                    "id": "342f3348-612c-6d04-425d-b46d04c8435e",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Crop tops",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a2e6eeab-5284-63d3-4ec3-963816aa3d68",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Halters",
+                    "isEndNode": true
+                },
+                {
+                    "id": "a737335a-9456-0dba-548c-8ed1ceb968fb",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Jerseys",
+                    "isEndNode": true
+                },
+                {
+                    "id": "ec91cb5e-8c4c-2d1e-1534-424d1f85107a",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Knit tops",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c0b3598f-2399-63bd-2c2b-dc9e777ea43b",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Muscle tees",
+                    "isEndNode": true
+                },
+                {
+                    "id": "94954653-2623-55ef-459f-259d8f557249",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Polos",
+                    "isEndNode": true
+                },
+                {
+                    "id": "18837eb9-8dcf-0dab-05b6-a3e736462449",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Tank tops",
+                    "isEndNode": true
+                },
+                {
+                    "id": "c31a3b30-37eb-9bcd-2f22-39331b368a0a",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Tunics",
+                    "isEndNode": true
+                },
+                {
+                    "id": "244b5a17-2ef5-8371-845b-d00817c454a9",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Turtlenecks",
+                    "isEndNode": true
+                },
+                {
+                    "id": "4e101a09-6234-2e61-6ee9-2f485d8269cd",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "T-shirts, short sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "915cc70c-4838-5a4b-8ca3-7ef0f62e072e",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "T-shirts, long sleeve",
+                    "isEndNode": true
+                },
+                {
+                    "id": "0e015b7a-191e-823a-37de-5cee12ec8ac0",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "Wraps",
+                    "isEndNode": true
+                },
+                {
+                    "id": "6b76f88b-0166-46b8-2976-c32f761d0acc",
+                    "parentId": "1269f462-6375-6515-330c-dfe821090e6f",
+                    "title": "All tops & blouses",
+                    "isEndNode": true
+                }
+            ]
+        },
+        {
+            "id": "4645e219-26ef-37c2-5bd7-53636f205def",
+            "parentId": "0fb7959d-09f4-98ed-1d3d-1c4349143b82",
+            "title": "All womenswear",
+            "isEndNode": true
+        }
+    ]
+    }
+]
+
