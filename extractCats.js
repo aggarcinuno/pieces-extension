@@ -44,4 +44,5 @@ function getTertiaryCategoryTitles(primaryCategory, secondaryCategory) {
     return tertiaryCategoryTitles.join(', '); // Remove the explicit addition of "All accessories" outside the if (subCategory) block
 }
 
-console.log(getTertiaryCategoryTitles('Menswear', 'Outerwear'));
+console.log(getSecondaryCategoryTitles('Menswear'));
+console.log(getTertiaryCategoryTitles('Menswear', 'Accessories'));
